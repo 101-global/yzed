@@ -24,7 +24,7 @@
     "next-images": "^1.4.0",
     "next-pwa": "^2.5.0",
     "next-seo": "^4.5.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
